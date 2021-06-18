@@ -3,6 +3,7 @@
 Demo Strategy for Badger V1 Vaults.
 
 Complete Video Walkthrough: https://www.youtube.com/watch?v=lTb0RFJJx2k
+
 1-1 Mentoring (Valid throughout HackMoney and Gitcoin Round 10): https://calendly.com/alex-entreprenerd/badger-hackmoney-1-1
 
 
