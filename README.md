@@ -2,6 +2,8 @@
 
 Demo Strategy for Badger V1 Vaults.
 
+Complete Video Walkthrough: https://www.youtube.com/watch?v=lTb0RFJJx2k
+
 This strategy will deposit wBTC on AAVE to earn interest and rewards
 It will then claim the rewards to increase the amount of wBTC
 
