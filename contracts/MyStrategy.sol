@@ -233,7 +233,7 @@ contract MyStrategy is BaseStrategy {
         _onlyAuthorizedActors();
 
         uint256 toDeposit = balanceOfWant();
-        if (toDeposit == 0) {
+        if (toDeposit > 0) {
             ILendingPool(LENDING_POOL).deposit(
                 want,
                 toDeposit,
