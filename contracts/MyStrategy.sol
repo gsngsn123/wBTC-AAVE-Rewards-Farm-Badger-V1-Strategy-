@@ -27,15 +27,15 @@ contract MyStrategy is BaseStrategy {
     address public reward; // Token we farm and swap to want / aToken
 
     address public constant LENDING_POOL =
-        0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9;
+        0x8dFf5E27EA6b7AC08EbFdf9eB090F32ee9a30fcf;
     address public constant INCENTIVES_CONTROLLER =
-        0xd784927Ff2f95ba542BfC824c8a8a98F3495f6b5;
+        0x357D51124f59836DeD84c8a1730D72B749d8BC23;
     address public constant ROUTER = 0xE592427A0AEce92De3Edee1F18E0157C05861564;
 
     address public constant AAVE_TOKEN =
-        0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9;
+        0xD6DF932A45C0f255f85145f286eA0b292B21C90B;
     address public constant WETH_TOKEN =
-        0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2;
+        0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619;
 
     function initialize(
         address _governance,
